@@ -39,7 +39,7 @@ CREATE TABLE venta (
         ON UPDATE CASCADE ON DELETE CASCADE
 );
 
--- Insertar datos en la tabla 'productos'
+
 INSERT INTO productos (Nombre, Precio) VALUES
 ('Producto 1', 100),
 ('Producto 2', 200),
@@ -52,7 +52,7 @@ INSERT INTO productos (Nombre, Precio) VALUES
 ('Producto 9', 250),
 ('Producto 10', 175);
 
--- Insertar datos en la tabla 'cajeros'
+
 INSERT INTO cajeros (NomApels) VALUES
 ('Cajero 1'),
 ('Cajero 2'),
@@ -65,7 +65,6 @@ INSERT INTO cajeros (NomApels) VALUES
 ('Cajero 9'),
 ('Cajero 10');
 
--- Insertar datos en la tabla 'maquinas_registradores'
 INSERT INTO maquinas_registradores (Piso) VALUES
 (1),
 (2),
@@ -78,7 +77,6 @@ INSERT INTO maquinas_registradores (Piso) VALUES
 (9),
 (10);
 
--- Insertar datos en la tabla 'venta'
 INSERT INTO venta (Cajero, Maquina, Producto) VALUES
 (1, 1, 1),
 (1, 2, 2),

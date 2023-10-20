@@ -29,26 +29,41 @@ CREATE TABLE asignado_a (
         ON UPDATE CASCADE ON DELETE CASCADE
 );
 
--- INSERT para la tabla cientificos
+
 INSERT INTO cientificos (DNI, NomApels) VALUES 
 ('11111111', 'Juan Pérez'),
 ('22222222', 'María Rodríguez'),
 ('33333333', 'Pedro Sánchez'),
 ('44444444', 'Ana García'),
-('55555555', 'Carlos López');
+('55555555', 'Carlos López'),
+('66666666', 'Laura Martínez'),
+('77777777', 'Luis González'),
+('88888888', 'Elena Fernández'),
+('99999999', 'Javier Pérez'),
+('10101010', 'Jordi Garcia');
 
--- INSERT para la tabla proyecto
+
 INSERT INTO proyecto (Id, Nombre, Horas) VALUES 
 ('P001', 'Proyecto A', 100),
 ('P002', 'Proyecto B', 200),
 ('P003', 'Proyecto C', 150),
 ('P004', 'Proyecto D', 120),
-('P005', 'Proyecto E', 180);
+('P005', 'Proyecto E', 180),
+('P006', 'Proyecto F', 220),
+('P007', 'Proyecto G', 130),
+('P008', 'Proyecto H', 190),
+('P009', 'Proyecto I', 140),
+('P010', 'Proyecto J', 250);
 
--- INSERT para la tabla asignado_a
+
 INSERT INTO asignado_a (Cientifico, Proyecto) VALUES 
 ('11111111', 'P001'),
 ('22222222', 'P002'),
 ('33333333', 'P003'),
 ('44444444', 'P004'),
-('55555555', 'P005');
+('55555555', 'P005'),
+('66666666', 'P006'),
+('77777777', 'P007'),
+('88888888', 'P008'),
+('99999999', 'P009'),
+('10101010', 'P010');
