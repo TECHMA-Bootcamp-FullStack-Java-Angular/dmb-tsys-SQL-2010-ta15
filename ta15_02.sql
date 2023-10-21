@@ -1,4 +1,4 @@
--- drop database ud14_ej2;
+DROP DATABASE IF EXISTS ud14_ej2;
 
 CREATE DATABASE IF NOT EXISTS ud14_ej2;
 
