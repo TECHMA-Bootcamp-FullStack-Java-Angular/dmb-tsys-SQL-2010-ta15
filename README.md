@@ -1,4 +1,8 @@
-<div align="center"><img width="80%"  src="https://talento.edempleo.com/wp-content/uploads/2021/05/Fundacion_esplai.png"  alt="Logo BootCamp" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoDark.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoLithg.png?raw=true">
+  <div align="center"><img width="60%"  src="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoLithg.png?raw=true"  alt="Logo BootCamp" /></div>
+</picture>
 
 
 
