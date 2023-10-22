@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoDark.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoLithg.png?raw=true">
-  <div align="center"><img width="60%"  src="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoLithg.png?raw=true"  alt="Logo BootCamp" /></div>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoLithg.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoDark.png?raw=true">
+  <div align="center"><img width="80%"  src="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoDark.png?raw=true"  alt="Logo BootCamp" /></div>
 </picture>
-
+<br>
 
 
 ![My etiqueta](https://img.shields.io/badge/Jordi%20Mallafre-%20jordimall-orange)  ![My etiqueta](https://img.shields.io/badge/Oriol%20Melo-%20OriolMelo-yellow) ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode-blue)
