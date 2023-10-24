@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoLithg.png?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoDark.png?raw=true">
-  <div align="center"><img width="80%"  src="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/logoDark.png?raw=true"  alt="Logo BootCamp" /></div>
+  <div align="center"><img width="80%"  src=""  alt="Logo BootCamp" /></div>
 </picture>
 <br>
 
@@ -32,8 +32,6 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 ![image](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/imge4.png?raw=true)
 ***
 ![image](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2010-ta15/blob/main/docs/imge5.png?raw=true)
-
-
 
 
 ## Authors 
